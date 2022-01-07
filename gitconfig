@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = phillipworld@hotmail.co.uk
+	name = phillip burns
